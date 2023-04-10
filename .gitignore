@@ -1,1 +1,4 @@
 ./ipynb_checkpoints
+data/close_only.db
+data/ALL.csv
+data/ALL_5.csv
